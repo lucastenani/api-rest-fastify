@@ -130,5 +130,4 @@ dist
 .pnp.*
 
 # Temp file database
-
-tmp/app.db
+db/app.db
