@@ -131,3 +131,6 @@ dist
 
 # Temp file database
 db/app.db
+
+# ENV config
+.env
