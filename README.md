@@ -1,7 +1,7 @@
 # api-rest-fastify
 
 - [x] User can create a new transaction
-- [] User can be able to obtain a summary of their account
+- [x] User can be able to obtain a summary of their account
 - [x] user can list all transactions
 - [x] User can see a unique transaction
 
